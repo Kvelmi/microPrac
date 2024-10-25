@@ -60,4 +60,14 @@ ___
 9. [Датчик, дисплей и кнопка](https://wokwi.com/projects/410524564323077121)
 ___
 
+
+
+# Third Practice (прерывания)
+
+1. [Семисегмент](https://wokwi.com/projects/411796109547183105)
+
+2. [Бегущие огни](https://wokwi.com/projects/411793505311181825)
+
+___
+
 ![](https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif)
